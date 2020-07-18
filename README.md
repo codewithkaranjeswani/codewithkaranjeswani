@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### Some random ideas in my head right now:
 - Why is there no reinforcement learning framework like Neural Architecture Search (NAS) for segmentation networks. I think this would be a nice way to find better encoder-decoder architectures as well. (I know of the NAS used for ImageNet classification, through this paper on Efficient Net by Google)
-- 
 
 ### Ways to contact me:
 - I would appreciate more followers on Twitter: @karanjeswani306
