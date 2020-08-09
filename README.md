@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 ---
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+
+---
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=codewithkaranjeswani&hide=stars&count_private=true&show_icons=true)
 
 [twitter]: https://twitter.com/karanjeswani306
 [linkedin]: https://linkedin.com/in/karanjeswani
