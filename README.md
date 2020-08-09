@@ -24,10 +24,12 @@ Made using https://github.com/anuraghazra/github-readme-stats
 ### Connect with me
 [<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="karanjeswani306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
 
 ---
 <!--
 ### Skills
+Don't use some other person's icon. Save it first as svg, then use it as your own by referring to your own repo.
 <p align="left">
 <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="22" height="22" />
 </p>
