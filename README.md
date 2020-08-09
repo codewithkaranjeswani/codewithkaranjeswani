@@ -25,6 +25,8 @@ Made using https://github.com/anuraghazra/github-readme-stats
 <img align="left" alt="python" width="22px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img align="left" alt="pytorch" width="22px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
 <img align="left" alt="tensorflow" width="22px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+<img align="left" alt="git" width="22px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
 <br />
 
 ### Connect with me
