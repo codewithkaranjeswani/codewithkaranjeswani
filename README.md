@@ -20,16 +20,14 @@ Made using https://github.com/anuraghazra/github-readme-stats
 - My greatest academic achievement as of now is being able to train a Generative Adversarial Network (GAN), on Image to Image translation, and I am proud of it.
 - I am interested in making contributions towards the progress of research in Deep Learning, and also in applying these solutions on real world datasets.
 - I am constantly learning and growing in the field of Image-to-Image Translation using conditional-GANs.
----
+
 ### Skills
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="pytorch" width="22" height="22"/>
 </p>
-<br />
 
----
 ### Connect with me
 [<img align="left" alt="krnjeswani21[AT]gmail.com" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 [<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
