@@ -35,6 +35,7 @@ Made using https://github.com/anuraghazra/github-readme-stats
 [<img align="left" alt="krnjeswani21[AT]gmail.com" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 [<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="karanjeswani306 | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="left" alt="karanjeswani306 | Mastodon" width="22px" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-icon.svg" />][mastodon]
 <br />
 
 ---
@@ -44,3 +45,4 @@ Made using https://github.com/anuraghazra/github-readme-stats
 [gmail]: mailto:krnjeswani21@gmail.com
 [twitter]: https://twitter.com/karanjeswani306
 [linkedin]: https://linkedin.com/in/karanjeswani
+[mastodon]: https://mastodon.social/@karanjeswani
