@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Karan Jeswani :vulcan_salute: :technologist:
 
-- I like to build cool and useful stuff and put it on the internet.
+- I like to build fun and useful stuff and put it on the internet.
 - I love Programming, solving problems, puzzles and riddles (I like it more when I would have to write programs to solve said problems, hence I like competitive programming). What I like even more is when I learn about a concept using some of these problems or riddles, because the best way to learn is by doing!
 - My greatest academic achievement as of now is being able to train a Generative Adversarial Network (GAN), on Image to Image translation, and I am proud of it.
 - I am interested in making contributions towards the progress of research in Deep Learning, and also in applying these solutions on real world datasets.
