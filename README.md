@@ -22,11 +22,13 @@ Made using https://github.com/anuraghazra/github-readme-stats
 - I am constantly learning and growing in the field of Image-to-Image Translation using conditional-GANs.
 
 ### Skills
+<img align="left" alt="C" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
+<img align="left" alt="C++" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="Javascript" width="22px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
 <img align="left" alt="python" width="22px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img align="left" alt="pytorch" width="22px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
 <img align="left" alt="tensorflow" width="22px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
 <img align="left" alt="git" width="22px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-
 <br />
 
 ### Connect with me
