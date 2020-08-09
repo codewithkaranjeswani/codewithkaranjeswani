@@ -21,24 +21,25 @@ Made using https://github.com/anuraghazra/github-readme-stats
 - I am interested in making contributions towards the progress of research in Deep Learning, and also in applying these solutions on real world datasets.
 - I am constantly learning and growing in the field of Image-to-Image Translation using conditional-GANs.
 ---
-### Connect with me
-[<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="karanjeswani306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-
----
-<!--
 ### Skills
-Don't use some other person's icon. Save it first as svg, then use it as your own by referring to your own repo.
 <p align="left">
-<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="22" height="22" />
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="pytorch" width="22" height="22"/>
 </p>
 <br />
 
 ---
--->
+### Connect with me
+[<img align="left" alt="krnjeswani21[AT]gmail.com" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
+[<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="karanjeswani306 | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+<br />
+
+---
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=codewithkaranjeswani&hide=stars&count_private=true&show_icons=true)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkaranjeswani) -->
 
+[gmail]: mailto:krnjeswani21@gmail.com
 [twitter]: https://twitter.com/karanjeswani306
 [linkedin]: https://linkedin.com/in/karanjeswani
