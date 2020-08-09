@@ -21,11 +21,20 @@ Made using https://github.com/anuraghazra/github-readme-stats
 - I am interested in making contributions towards the progress of research in Deep Learning, and also in applying these solutions on real world datasets.
 - I am constantly learning and growing in the field of Image-to-Image Translation using conditional-GANs.
 ---
+### Connect with me
 [<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="karanjeswani306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+---
+<!--
+### Skills
+<p align="left">
+<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="22" height="22" />
+</p>
 <br />
 
 ---
+-->
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=codewithkaranjeswani&hide=stars&count_private=true&show_icons=true)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkaranjeswani) -->
 
