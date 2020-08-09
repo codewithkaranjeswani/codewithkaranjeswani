@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 - I am interested in making contributions towards the progress of research in Deep Learning, and also in applying these solutions on real world datasets.
 - I am constantly learning and growing in the field of Image-to-Image Translation using conditional-GANs.
 ---
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="karanjeswani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="karanjeswani306 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ---
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=codewithkaranjeswani&hide=stars&count_private=true&show_icons=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkaranjeswani) -->
 
 [twitter]: https://twitter.com/karanjeswani306
 [linkedin]: https://linkedin.com/in/karanjeswani
